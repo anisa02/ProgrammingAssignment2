@@ -1,4 +1,4 @@
-## The following functions are used to create an object that stores a matrix and caches its inverse
+## The following functions are used to create an object that stores a matrix and caches its inverse.
 
 ## here i am making the matrix 
 
